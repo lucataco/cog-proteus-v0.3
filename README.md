@@ -1,5 +1,7 @@
 # dataautogpt3/ProteusV0.3 Cog model
 
+[![Try a demo on Replicate](https://replicate.com/datacte/proteus-v0.3/badge)](https://replicate.com/datacte/proteus-v0.3)
+
 This is an implementation of the [dataautogpt3/ProteusV0.3](https://huggingface.co/dataautogpt3/ProteusV0.3) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 Run predictions:
